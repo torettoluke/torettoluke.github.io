@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Torettoluke&#39;s Blog</title>
+  
+  
+  <link href="https://torettoluke.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://torettoluke.github.io/"/>
+  <updated>2024-11-13T12:52:27.328Z</updated>
+  <id>https://torettoluke.github.io/</id>
+  
+  <author>
+    <name>Torettoluke</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Memory</title>
+    <link href="https://torettoluke.github.io/20241113/Memory%20Consistency%20and%20Cache%20Coherence%201/"/>
+    <id>https://torettoluke.github.io/20241113/Memory%20Consistency%20and%20Cache%20Coherence%201/</id>
+    <published>2024-11-13T12:52:27.328Z</published>
+    <updated>2024-11-13T12:52:27.328Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="1-1-C"><a href="#1-1-C" class="headerlink" title="1.1 C"></a>1.1 C</h3><p>Con</p><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><p>categories：</p><ul><li>Computer</li></ul><p>tags：</p><ul><li>Cache</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;1-1-C&quot;&gt;&lt;a href=&quot;#1-1-C&quot; class=&quot;headerlink&quot; title=&quot;1.1 C&quot;&gt;&lt;/a&gt;1.1 C&lt;/h3&gt;&lt;p&gt;Con&lt;/p&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
